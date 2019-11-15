@@ -1,0 +1,28 @@
+{
+  "name": "football-data-nodejs-lib",
+  "version": "1.0.0",
+  "description": "A simple promise-based NodeJs library for getting data from https://www.football-data.org/",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekCS/football-data-nodejs-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NekCS/football-data-nodejs-lib/issues"
+  },
+  "homepage": "https://github.com/NekCS/football-data-nodejs-lib#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "util": "^0.12.1"
+  }
+}
