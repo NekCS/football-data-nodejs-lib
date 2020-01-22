@@ -338,7 +338,7 @@ Reach out to me at one of the following places!
 
 ## License
 
-This project is licensed under the GNU GPL v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GPL v3.0 License - see the [LICENSE.md](https://github.com/NekCS/football-data-nodejs-lib/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
